@@ -1,0 +1,41 @@
+body{
+    background: #313F61;
+}
+#title {
+    margin: 20px;
+
+    text-align: center;
+
+    color: #BDDBDB;
+
+    font-family: 'Baloo', sans-serif;
+    font-size: 32px;
+    font-weight: 100;
+}
+#subtitle {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+
+    color: #BDDBDB;
+
+    font-family: 'Muli', sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+}
+.icons{
+}
+.icon{
+    width: auto;
+    height: 15px;
+}
+
+.middle{
+    text-align: center;
+}
+.contact a:hover {
+    -webkit-transition-duration: 400s; /* Safari */
+    transition-duration: 400ms;
+
+    color: #00cccc;
+}
